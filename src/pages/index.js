@@ -1,0 +1,7 @@
+export {default as Home} from './Home'
+export {default as Genres} from './Genres'
+export {default as Popular} from './Movies/Popular'
+export {default as Person} from './person/Person'
+export {default as PersonId} from './person/PersonId'
+export {default as Toprated} from './Movies/Toprated'
+export {default as MovieId} from './Movies/MovieId'
